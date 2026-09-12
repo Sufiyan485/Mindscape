@@ -1,6 +1,6 @@
 // api.js — thin wrapper around the FastAPI backend.
 // Change API_BASE_URL if the backend runs somewhere other than localhost:8000.
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://mindscape-gjxu.onrender.com";
 
 /**
  * Calls POST /predict on the FastAPI backend.

@@ -552,7 +552,7 @@ A student's mental health cannot be reliably determined from the features used i
 
 ## 👨‍💻 Author
 
-**Sufiyan**
+**Mohammed Sufiyan**
 
 GitHub:  
 [https://github.com/Sufiyan485](https://github.com/Sufiyan485)
